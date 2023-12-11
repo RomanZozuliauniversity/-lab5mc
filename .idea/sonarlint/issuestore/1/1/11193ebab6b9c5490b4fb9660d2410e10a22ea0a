@@ -1,0 +1,20 @@
+
+c
+java:S3973*"HUse indentation to denote the code conditionally executed by this "for".(©«χμÿÿÿÿÿ
+b	java:S116"MRename this field "Kn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(θμιΏ
+f	java:S116	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ξ΅ίÿÿÿÿÿ
+f	java:S116	"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ξ΅ίÿÿÿÿÿ
+V
+java:S1659"@Declare "max" and all following declarations on a separate line.(θμιΏ
+:
+java:S1659	"Declare "K" on a separate line.(–Ξ΅ίÿÿÿÿÿ
+j
+java:S1450"TRemove the "delta" field and declare it as a local variable in the relevant methods.(θμιΏ
+h
+java:S1450"RRemove the "max" field and declare it as a local variable in the relevant methods.(θμιΏ
+7
+java:S1659"!Declare "max" on a separate line.(η”–¤
+L
+java:S1117"6Rename "max" which hides the field declared at line 8.(η”–¤
+?
+java:S1905K")Remove this unnecessary cast to "double".(»‘λ€

@@ -1,0 +1,98 @@
+
+J
+java:S37401"/Provide the parametrized type for this generic.(ûÀØŸøÿÿÿÿ
+J
+java:S37402"/Provide the parametrized type for this generic.(ÜÃ¾üÿÿÿÿ
+J
+java:S37406"/Provide the parametrized type for this generic.(…ØÛøûÿÿÿÿ
+J
+java:S37407"/Provide the parametrized type for this generic.(±ÊÍ…üÿÿÿÿ
+J
+java:S37408"/Provide the parametrized type for this generic.(åÄ¦Öÿÿÿÿÿ
+J
+java:S37409"/Provide the parametrized type for this generic.(’ˆ—Øúÿÿÿÿ
+J
+java:S3740["/Provide the parametrized type for this generic.(¾Áé¯ûÿÿÿÿ
+J
+java:S3740\"/Provide the parametrized type for this generic.(ÚÓÃüÿÿÿÿ
+J
+java:S3740i"/Provide the parametrized type for this generic.(Ñí ûÿÿÿÿ
+D
+java:S3740l"/Provide the parametrized type for this generic.(‹ÿïz
+E
+java:S3740o"/Provide the parametrized type for this generic.(Ò•›ì
+E
+java:S3740r"/Provide the parametrized type for this generic.(‰ ‡
+E
+java:S3740"/Provide the parametrized type for this generic.(‹ÿïz
+F
+java:S3740Ÿ"/Provide the parametrized type for this generic.(‰ ‡
+K
+java:S3740­"/Provide the parametrized type for this generic.(†ôŒÏûÿÿÿÿ
+K
+java:S3740®"/Provide the parametrized type for this generic.(ğŒ‚¥úÿÿÿÿ
+E
+java:S3740²"/Provide the parametrized type for this generic.(¿ÖØ)
+K
+java:S3740³"/Provide the parametrized type for this generic.(™¶ã¸úÿÿÿÿ
+E
+java:S3740Â"/Provide the parametrized type for this generic.(‹ÿïz
+F
+java:S3740Ã"/Provide the parametrized type for this generic.(‰ ‡
+K
+java:S3740Ñ"/Provide the parametrized type for this generic.(†ôŒÏûÿÿÿÿ
+K
+java:S3740Ò"/Provide the parametrized type for this generic.(ğŒ‚¥úÿÿÿÿ
+E
+java:S3740Ö"/Provide the parametrized type for this generic.(¿ÖØ)
+K
+java:S3740×"/Provide the parametrized type for this generic.(™¶ã¸úÿÿÿÿ
+E
+java:S3740æ"/Provide the parametrized type for this generic.(‹ÿïz
+F
+java:S3740ç"/Provide the parametrized type for this generic.(‰ ‡
+R
+java:S3740õ"/Provide the parametrized type for this generic.(†ôŒÏûÿÿÿÿ8ÎÈìÉÁ0
+R
+java:S3740ö"/Provide the parametrized type for this generic.(ğŒ‚¥úÿÿÿÿ8ÏÈìÉÁ0
+L
+java:S3740ú"/Provide the parametrized type for this generic.(¿ÖØ)8ÏÈìÉÁ0
+R
+java:S3740û"/Provide the parametrized type for this generic.(™¶ã¸úÿÿÿÿ8ÏÈìÉÁ0
+g	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìØùû
+b
+java:S3008+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³©â
+h
+java:S3008,"MRename this field "X0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›†ãÀùÿÿÿÿ
+h
+java:S3008-"MRename this field "X1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïç‰Óıÿÿÿÿ
+g
+java:S3008."LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä±¹æüÿÿÿÿ
+b
+java:S3008/"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äò‰Ä
+b
+java:S30080"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆ
+?
+java:S1197Y"*Move the array designators [] to the type.(èÉ<
+E
+java:S1197Z"*Move the array designators [] to the type.(ö¾Üùÿÿÿÿ
+_
+java:S1854¦"HRemove this useless assignment to local variable "countElemOnIntervals".(Í‰¦Š
+P
+java:S1481¦"9Remove this unused "countElemOnIntervals" local variable.(Í‰¦Š
+_
+java:S1854Ê"HRemove this useless assignment to local variable "countElemOnIntervals".(Í‰¦Š
+P
+java:S1481Ê"9Remove this unused "countElemOnIntervals" local variable.(Í‰¦Š
+_
+java:S1854î"HRemove this useless assignment to local variable "countElemOnIntervals".(Í‰¦Š
+P
+java:S1481î"9Remove this unused "countElemOnIntervals" local variable.(Í‰¦Š
+U
+java:S1128"3Remove this unused import 'javafx.fxml.FXMLLoader'.(À‡ô³úÿÿÿÿ8±­ëÉÁ0
+R
+java:S1128"0Remove this unused import 'javafx.geometry.Pos'.(ÌÆ÷Ùøÿÿÿÿ8±­ëÉÁ0
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8²­ëÉÁ0
+Q
+java:S1128"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜8²­ëÉÁ0
